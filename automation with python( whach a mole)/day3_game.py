@@ -3,7 +3,7 @@ from time import sleep
 
 moles = ['assets/mole1.png','assets/mole2.png']
 continue_bot = 'assets/start_button.png'
-#while(1): checking sursor position live
+#while(1): checking cursor position live
 #   print(gui.position(20,96))
 #   print(gui.click(20,96))
 def continue_botton():
